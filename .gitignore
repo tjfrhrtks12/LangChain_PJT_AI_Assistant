@@ -1,0 +1,13 @@
+# 환경 설정 파일
+.env
+
+# Python 관련 캐시
+__pycache__/
+*.pyc
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# OS별 무시할 파일
+.DS_Store
+Thumbs.db
