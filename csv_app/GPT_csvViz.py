@@ -1,4 +1,4 @@
-##시각화형 GPT
+##CSV파일을 분석해서 그래프로 표현한다.
 
 import streamlit as st
 import pandas as pd

@@ -1,4 +1,4 @@
-##질문형 GPT
+##CSV파일을 분석해서 질문을 할 수 있다.
 
 import streamlit as st
 import pandas as pd
