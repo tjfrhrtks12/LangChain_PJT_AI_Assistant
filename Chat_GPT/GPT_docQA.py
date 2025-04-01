@@ -57,3 +57,4 @@ while True:
 
 # 문서에 거짓이 있다 → GPT도 거짓을 따라 말함 😅
 
+# 실행 명령어: python Chat_GPT_docQA.py 

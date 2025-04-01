@@ -25,3 +25,5 @@ if st.button("질문하기"):
         st.write(response)
     else:
         st.warning("질문을 입력해 주세요!")
+
+#실행 명령어 : streamlit run Chat_GPT_webQa.py

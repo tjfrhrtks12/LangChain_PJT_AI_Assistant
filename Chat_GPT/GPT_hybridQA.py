@@ -54,3 +54,5 @@ while True:
     # 4. GPT에 전달
     answer = llm(prompt)
     print("🧠 하이브리드 AI:", answer)
+
+#실행 명령어 : python Chat_GPT_hybridQA.py
